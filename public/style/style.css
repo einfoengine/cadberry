@@ -171,4 +171,13 @@ li {
   vertical-align: middle;
   margin-top: 14px;
 }
+
+.cb-backend {
+  background: #fff;
+}
+
+.cb-backend thead {
+  text-align: center;
+  text-transform: uppercase;
+}
 /*# sourceMappingURL=style.css.map */
